@@ -1,1 +1,3 @@
-# My-SQL-Projects
+This schema includes five tables named as Customers, Energy_Consumption, Energy_Production, Production_Plants and Sustainability_Initiatives
+
+Problem Statement: The energy company seeks to enhance its understanding of customer energy consumption patterns and the impact of its energy production processes. The goal is to identify trends in energy usage, analyze costs associated with different types of energy, and evaluate the effectiveness of sustainability initiatives. Additionally, understanding the customer segments and their respective energy consumption behaviors will help in tailoring targeted initiatives to promote efficient energy use and support the company's sustainability goals.
